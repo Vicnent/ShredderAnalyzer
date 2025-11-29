@@ -1,6 +1,13 @@
 # ♟️ Shredder-iPhone Game Analyzer  
 ### Analyze complete chess games from the iPhone Shredder app using Stockfish & Jupyter
 
+## 🚀 Try It Online (Google Colab) right now 
+**(code has comments how to fill, change and run options)**
+
+Click below to run the analyzer directly in your browser — no installation required ! there → [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PxedarZrA7QnCZaEVtK89ebWXfmipYGV?usp=sharing)
+
+---
+
 If you play regularly with **Shredder on iPhone**, you may have experienced a limitation:  
 ➡️ **you cannot analyze a full game with an engine afterwards.**
 
@@ -151,7 +158,7 @@ You can contact me by email:
 
 ```
 
-vincent   pinte   at   gmail   com
+vincent   pinte   with the famous `gmail` TLD :-)     
 
 ```
 
@@ -173,4 +180,5 @@ If this helps you improve your game, analyze your styles, or revisit old matches
 
 Happy analyzing!
 ```
-
+This block has been intentionnally left blanck but finally not. :-)
+```
